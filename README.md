@@ -25,6 +25,10 @@
 
 <img src="./images/versionJava.png" style="height:300px , margin-bottom:10px, object-fit: cover"/>
 
+<h2>Setup lại file database.properties của máy nếu có Mật Khẩu</h2>
+
+<img src="./images/database.png" style="height:300px , margin-bottom:10px, object-fit: cover"/>
+
 <h2>Khi chạy thêm đường link: /client/home để chạy vào chương trình</h2>
 
 <img src="./images/linkWeb.png" style="height:300px , margin-bottom:10px"/>
