@@ -11,7 +11,7 @@
 </head>
 <body style="background-image: url(resource/client/images/bg.jpg);">
 	<!-- Authen form -->
-	<form name="login" th:action="@{/j_spring_security_check}" method="post">
+	<form action="login" method="post">
 		<div class="auth-form" style="background-color: white;">
 			<div class="auth-form-container">
 				<div class="auth-form-header">
