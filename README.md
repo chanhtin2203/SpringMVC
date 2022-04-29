@@ -5,7 +5,7 @@
 
 <img src="./images/mysql.png" style="height:300px , margin-bottom:10px"/>
 
-<h2>Thêm Project</h2>
+<h2>Thêm Project và chọn đúng thư mục đã giải nén</h2>
 
 <img src="./images/addProject.png" style="height:300px , margin-bottom:10px"/>
 
