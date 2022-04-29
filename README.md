@@ -17,3 +17,5 @@ Tải my_shop.sql về máy, sử dụng XAMPP để kết nối cơ sở dữ l
 
 <img src="./images/linkWeb.png" style="height:300px , margin-bottom:10px"/>
 
+
+<h2>Tài khoản Admin: admin@gmail.com----Mk: 123</h2>
