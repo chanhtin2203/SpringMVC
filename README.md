@@ -23,7 +23,7 @@
 
 <h2>Và chọn Java version của máy </h2>
 
-<img src="./images/javaVersion.png" style="height:300px , margin-bottom:10px, object-fit: cover"/>
+<img src="./images/versionJava.png" style="height:300px , margin-bottom:10px, object-fit: cover"/>
 
 <h2>Khi chạy thêm đường link: /client/home để chạy vào chương trình</h2>
 
